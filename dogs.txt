@@ -1,0 +1,6 @@
+5
+name1 breed1 1 sex1 color1
+name2 breed2 2 sex2 color2
+name3 breed3 3 sex3 color3
+name4 breed4 4 sex4 color4
+name5 breed5 5 sex5 color5
